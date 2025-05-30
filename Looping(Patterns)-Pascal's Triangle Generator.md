@@ -28,10 +28,6 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 
 ## 🧪 Program
 ```
-Developed by:Mohanaprabha S
-Register no:212224040197
-```
-```
 def factorial(n): 
 if n == 0 or n == 1: 
 return 1 
