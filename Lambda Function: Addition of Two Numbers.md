@@ -10,10 +10,6 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ## 🧾 Program
 ```
-Developed by:Mohanaprabha S
-Register no:212224040197
-```
-```
  a=int(input()) 
 b=int(input()) 
 f=lambda a,b: a+b 
